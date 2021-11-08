@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+}
+.firstdiv{
+    border: 5px solid blue;
+}
+.messagebox{
+    border: 5px solid blue;
+}
+button{
+    margin: 10px;
+}
